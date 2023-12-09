@@ -1,0 +1,12 @@
+.title {
+  font-size: 28px;
+  font-family: cursive;
+  color: aquamarine;
+}
+
+.listname {
+  list-style-type: none;
+  font-size: 24px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: start;
+}
